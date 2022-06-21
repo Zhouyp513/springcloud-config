@@ -1,7 +1,7 @@
 # springcloud-config
 Config服务端配置与测试
 
-
+https://github.com/Zhouyp513/springcloud-config/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220621215132.png
 1.用你自己的账号在GitHub上新建一个名为springcloud-config的新Repository
 
 2.由上一步获得刚新建的git地址
